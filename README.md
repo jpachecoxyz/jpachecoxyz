@@ -9,6 +9,14 @@ I am maintenance engineer, I specialize in maintenance, programming PLC, Robotic
 - 🌐 Visit my [blog](https://jpacheco.xyz) for more information and read my posts.
 <!-- - ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content. -->
 
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-3C4C5C?style=for-the-badge&logo=lisp&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+
 ---
 
 <p align="center">
