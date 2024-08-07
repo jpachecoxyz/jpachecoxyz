@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=jpachecoxyz;Industrial+maintenace+engineer;Programmer&font=Fira%20Code&center=true&width=580&height=50&duration=2500&pause=800" alt="Example Usage - README Typing SVG">
 </p>
 
-# Hi 👋 I am Javier Pacheco! 
+# Hi I am Javier Pacheco! 
 I am maintenance engineer, I'm specialized in maintenance, programming PLC, Robotics, but also likes to programming, I use linux and nixOS as my daliy OS.
 
-- 🌐 Visit my [blog](https://jpacheco.xyz) for more information and read my posts.
+- 🌐 Visit my [blog](https://jpacheco.xyz) for more information and posts.
 <!-- - ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content. -->
 
 ---
 
-## Learning
+## 📖 Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</img>
@@ -19,9 +19,7 @@ I am maintenance engineer, I'm specialized in maintenance, programming PLC, Robo
   <!-- <img src="https://img.shields.io/badge/Elisp-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white"</img> -->
 </p>
 
----
-
-## 🔍  Where to find me
+## 🔍 Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/jpachecom4)
 
