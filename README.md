@@ -32,7 +32,7 @@ I am maintenance engineer, I'm specialized in maintenance, programming PLC, Robo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpachecoxyz&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jpachecoxyz&theme=dark&hide_border=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpachecoxyz&layout=compact&theme=gruvbox>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpachecoxyz&layout=compact&theme=dark&hide">
 </p>
 
 ---
