@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=jpachecoxyz;Industrial+;maintenace+engineer;&;Programmer&font=Fira%20Code&center=true&width=380&height=50&duration=2500&pause=800" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=jpachecoxyz;Industrial+maintenace+engineer;Programmer&font=Fira%20Code&center=true&width=580&height=50&duration=2500&pause=800" alt="Example Usage - README Typing SVG">
 </p>
 
 # Hi 👋 I am Javier Pacheco! 
