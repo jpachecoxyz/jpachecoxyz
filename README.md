@@ -12,11 +12,10 @@ I am maintenance engineer, I specialize in maintenance, programming PLC, Robotic
 ## Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" 
-  <img src="https://img.shields.io/badge/Lisp-3C4C5C?style=for-the-badge&logo=lisp&logoColor=white"
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"
-  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white"
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</img>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"</img>
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white"</img>
+  <img src="https://img.shields.io/badge/Elisp-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white"</img>
 </p>
 
 ---
