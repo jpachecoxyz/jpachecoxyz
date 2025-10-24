@@ -3,7 +3,7 @@
 </p>
 
 # Hi I am Javier Pacheco! 
-I am maintenance Engineer, I'm specialized in Maintenance, PLC, Robotics, but also likes to programming, I use linux and Arch Linux as my daliy OS.
+I am maintenance Engineer, I'm specialized in Maintenance, PLC, Robotics, but also likes to programming, I use linux as my daliy OS (Arch btw).
 
 - 🌐 Visit my [blog](https://jpacheco.xyz) for more information and posts.
 <!-- - ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content. -->
